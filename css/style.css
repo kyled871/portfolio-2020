@@ -677,7 +677,7 @@ header{
 }
 .protfolio .container{
 	padding-top:85px ;
-	padding-bottom:90px ;
+	padding-bottom:200px ;
 }
 
 .protfolio .heading p{
@@ -755,7 +755,7 @@ ul.portfolioContainer li .lightCon{
 }
 ul.portfolioContainer li img{
 	 width:100%;
-	 height:auto;
+	 height: 278px;
 	 display:block;
 }
 
@@ -879,9 +879,6 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
     -moz-transition-property: -moz-transform, opacity;
     transition-property: transform, opacity;
 }
-
-
-
 
 .abc{
 	position: absolute;
