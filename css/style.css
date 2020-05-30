@@ -110,6 +110,11 @@ h4.subHeading{
 	margin-top:20px;
 }
 
+#proPic {
+	width: 250px;
+	height: 250px;
+	object-fit: cover;
+}
 
 
 /*----------------------------------------------------
