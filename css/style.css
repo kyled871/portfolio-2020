@@ -848,6 +848,25 @@ span.hoverBox .linKed{
 	transition-duration: 0.2s;
 	-webkit-transition-duration: 0.2s;
 }
+
+span.hoverBox .play{
+	visibility:hidden;
+	width:42px;
+	height:42px;
+	background:#6da84b;
+	color:#fff;
+	position: relative;
+	right:-150%;
+	/*top:40%;*/
+	text-align:center;
+	line-height:52px;
+	display: block;
+	float: right;
+	
+	transition-duration: 0.2s;
+	-webkit-transition-duration: 0.2s;
+}
+
 ul.portfolioContainer li:hover span.hoverBox .linKed{
 	visibility:visible;
 	right:0%;
